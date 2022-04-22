@@ -1,0 +1,24 @@
+{
+  "name": "scraperAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/green-ham-and-eggs/scraperAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/green-ham-and-eggs/scraperAPI/issues"
+  },
+  "homepage": "https://github.com/green-ham-and-eggs/scraperAPI#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "recipe-scraper": "^2.1.1"
+  }
+}
